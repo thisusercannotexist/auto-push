@@ -2,9 +2,9 @@
 # coding:utf-8
 #   |                                                          |
 # --+----------------------------------------------------------+--
-#   |   Code by : kingsleyesisi                                |
-#   |   Email   : kingsleyesisi@yahoo.com                      |
-#   |   Github  : https://github.com/kingsleyesisi             |
+#   |   Code by : the king                                     |
+#   |   Email   : hack the world                               |
+#   |   find him on the dark web                               |
 # --+----------------------------------------------------------+--  
 # --+----------------------------------------------------------+--
 #   |                                                          |
